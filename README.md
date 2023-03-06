@@ -24,7 +24,7 @@
 
 ## Diseño de vista (Responsive) 
 
-## Pruébala en local (o entra en la [web]())
+## Pruébala en local (o entra en el sitio [web](https://react-ts-pokedex-infinite-scroll.netlify.app/))
 ### 1. Descarga el repositorio
 
 _Esquina superior derecha, botón verde Code, "Download ZIP"_
