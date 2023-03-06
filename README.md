@@ -10,7 +10,7 @@
 - Peticiones http con Axios
 
 
-### : Infinite Scroll de los Pokémon ([componente react-infinite-scroll-component] (https://www.npmjs.com/package/react-infinite-scroll-component))
+### : Infinite Scroll de los Pokémon ([componente react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component))
 ![Screenshot 2023-03-06 at 03-49-10 React Pokedex Armando Ariel Vera Lavigne](https://user-images.githubusercontent.com/94018348/223152642-66c21730-c2c7-42a4-bb0b-68883b060b58.png)
 
 ### : Vista en detalle con sus características principales
