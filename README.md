@@ -2,11 +2,8 @@
 ## _UI con React.js consumiendo el API pública de Pokeapi.co_
 ![download](https://user-images.githubusercontent.com/96445737/212669378-a699e1ae-b9bf-4b54-a3af-14c78b673511.png)
 ***
-## Visita la APP :eye:
 
-
-***
-## Tecnologías :zap:
+## Tecnologías Empleadas :computer:
 - React
 - TypeScript 
 - Estilos con SASS
